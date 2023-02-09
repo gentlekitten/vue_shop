@@ -1,5 +1,10 @@
 # vue_shop
 
+## 介绍
+```
+这是vue2全家桶做的权限后台管理系统
+```
+
 ## Project setup
 ```
 npm install
